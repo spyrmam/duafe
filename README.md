@@ -1669,7 +1669,7 @@ kkk.Name = "a"
 kkk.Looped = true
 
 coroutine.wrap(function()
-	chatfunc('Dualiecider, a Genocider edit by Quil_Cyndaquil,spyrmam,KoxuD')
+	chatfunc('Dualiecider, a Genocider edit by Quil_Cyndaquil')
 	wait(5)
 	chatfunc('Original source credit goes to Salvo_Starly!')
 end)()
