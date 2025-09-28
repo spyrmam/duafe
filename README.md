@@ -103,7 +103,6 @@ wait(1 / 60)
 Effects = { }
 local Player = owner
 local Character = Player.Character
-local FCharacter = Character:Clone()
 local Humanoid = Character.Humanoid
 local LeftArm = Character["Left Arm"]
 local RightArm = Character["Right Arm"]
